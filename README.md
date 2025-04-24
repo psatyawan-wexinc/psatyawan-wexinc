@@ -67,7 +67,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatyawan-wexinc&layout=compact&langs_count=8&theme=radical"/>
   <!-- Adjust langs_count, theme, layout (compact, normal) -->
 </p>
----
 
 ## 🌱 Currently Exploring
 
