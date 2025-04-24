@@ -29,7 +29,7 @@
 *   🌱 I'm actively learning and exploring the exciting field of **Agentic AI** and **Large Language Models (LLMs)**, aiming to build sophisticated, autonomous agents.
 *   🎯 My goal is to transition into an **Agentic Engineer** role, leveraging cutting-edge AI to solve complex problems within **WEX Inc**.
 *   💬 Ask me about RPA strategy, automation pipelines, intelligent document processing, or conversational AI!
-*   📫 How to reach me: [Your Preferred Contact Email/Method]
+*   📫 How to reach me: (702) 582 4601
 
 ---
 
