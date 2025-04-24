@@ -2,11 +2,6 @@
 
 # Hi there, I'm Nick Sudh! 👋
 
-<a href="https://wexinc.com" target="_blank">
-  <img src="https://img.shields.io/badge/WEX_Inc.-Employee-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...>" alt="WEX Employee Badge"/> 
-  <!-- Optional: Replace base64 with a WEX logo URL if you have one approved for use -->
-</a>
-
 <p align="center">
   <em>🤖 RPA Engineer @ WEX | Automating the present, building the intelligent future ✨</em><br/>
   <em>🧠 Passionate about RPA, AI, Machine Learning, and Data Science</em> <br/>
@@ -14,7 +9,7 @@
 </p>
 
 <!-- Optional: Add a Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&label=Profile%20Views&color=0e75b6&style=flat" alt="[Your GitHub Username]'s Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=psatyawan-wexinc&label=Profile%20Views&color=0e75b6&style=flat" alt="My Profile Views"/>
 
 </div>
 
